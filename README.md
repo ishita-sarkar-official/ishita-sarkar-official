@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishita-sarkar-official
-- 👀 I’m interested in Java and Python
+- 👀 I’m interested in C, Java and Python
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me  www.linkedin.com/in/ishita-sarkar-official
